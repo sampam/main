@@ -1,4 +1,4 @@
-ltimimi@Grendizer:~/git_repos/test/main/folder1$ cd ..
+haltimimi@Grendizer:~/git_repos/test/main/folder1$ cd ..
 haltimimi@Grendizer:~/git_repos/test/main$ cp file1 folder1/
 haltimimi@Grendizer:~/git_repos/test/main$ cp file1 test2/
 haltimimi@Grendizer:~/git_repos/test/main$ git st
